@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header {    
+    background: black;
+    color: white;
+    padding: 20px;
+    text-align: center;    
+}
+
+h1 {
+    font-size: 3em;
+}
+
+form {
+    margin: 0 auto;
+    width: 500px;
+}
+
+input, textarea {
+    padding: 10 px;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+footer {    
+    background-color: #cccccccc;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+button {
+    padding: 10 px;
+    border: 1px solid #ccc;
+    width: 100%;    
+}
