@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header {    
+    background: black;
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+img {
+    max-width: 30%;
+}
+
+p {
+    font-size: 1.5em;    
+}
+
+footer {    
+    background-color: #cccccccc;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

@@ -5,9 +5,10 @@ body {
 
 header {    
     background: black;
-    color: white;
+    color: whitesmoke;
     padding: 20px;
-    text-align: center;    
+    text-align: center;
+    display: flex;    
 }
 
 h1 {
